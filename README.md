@@ -1,4 +1,3 @@
 Rails Blogger via JohnnyBurst
 
-Happy coding!
-The Cloud9 IDE team
+Happily coding on the Cloud9 IDE
